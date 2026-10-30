@@ -1,0 +1,17 @@
+{
+  "name": "job-finder",
+  "displayName": "Job Finder",
+  "description": "End-to-end job search: parses your resume, finds and scores matching roles, then drafts approval-gated applications or tailors your resume without fabricating anything.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Arkapravo Mukherjee",
+    "url": "https://github.com/arkapravomukherjee10"
+  },
+  "homepage": "https://github.com/arkapravomukherjee10/My_Claude_skills/tree/main/plugins/job-finder",
+  "repository": "https://github.com/arkapravomukherjee10/My_Claude_skills",
+  "keywords": [
+    "job-search",
+    "resume",
+    "career"
+  ]
+}

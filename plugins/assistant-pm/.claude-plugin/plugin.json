@@ -1,0 +1,18 @@
+{
+  "name": "assistant-pm",
+  "displayName": "Assistant PM",
+  "description": "Takes a product area from ambiguity to a design-backed PRD: segmentation, JTBD, problem and solution space, KANO/MoSCoW/RICE scoping, and a PRD with Figma designs.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Arkapravo Mukherjee",
+    "url": "https://github.com/arkapravomukherjee10"
+  },
+  "homepage": "https://github.com/arkapravomukherjee10/My_Claude_skills/tree/main/plugins/assistant-pm",
+  "repository": "https://github.com/arkapravomukherjee10/My_Claude_skills",
+  "keywords": [
+    "product-management",
+    "prd",
+    "jtbd",
+    "prioritization"
+  ]
+}

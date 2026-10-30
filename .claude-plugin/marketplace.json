@@ -1,0 +1,40 @@
+{
+  "name": "arkapravo-skills",
+  "description": "Arkapravo Mukherjee's Claude skills for product management, fintech regulation and AI workflows.",
+  "owner": {
+    "name": "Arkapravo Mukherjee",
+    "url": "https://github.com/arkapravomukherjee10"
+  },
+  "plugins": [
+    {
+      "name": "bfsi-regulatory-radar",
+      "source": "./plugins/bfsi-regulatory-radar",
+      "description": "Plain-English digests of recent Indian BFSI regulations (RBI, SEBI, IRDAI, NPCI, DPDP and more) for fintech PMs, verified against official regulator sources.",
+      "category": "fintech"
+    },
+    {
+      "name": "assistant-pm",
+      "source": "./plugins/assistant-pm",
+      "description": "Takes a product area from ambiguity to a design-backed PRD: segmentation, JTBD, problem and solution space, KANO/MoSCoW/RICE scoping, and a PRD with Figma designs.",
+      "category": "productivity"
+    },
+    {
+      "name": "job-finder",
+      "source": "./plugins/job-finder",
+      "description": "End-to-end job search: parses your resume, finds and scores matching roles, then drafts approval-gated applications or tailors your resume without fabricating anything.",
+      "category": "productivity"
+    },
+    {
+      "name": "new-ai-tool-scout",
+      "source": "./plugins/new-ai-tool-scout",
+      "description": "Type #NewAITool to get a sourced briefing on a newly launched AI tool, tailored to who is asking.",
+      "category": "productivity"
+    },
+    {
+      "name": "adaptive-model-router",
+      "source": "./plugins/adaptive-model-router",
+      "description": "Routes subtasks to the cheapest Claude tier that can do them correctly, and checkpoints work with a self-contained handoff when the budget runs low.",
+      "category": "productivity"
+    }
+  ]
+}

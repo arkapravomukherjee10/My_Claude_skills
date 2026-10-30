@@ -1,0 +1,19 @@
+{
+  "name": "bfsi-regulatory-radar",
+  "displayName": "BFSI Regulatory Radar",
+  "description": "Plain-English digests of recent Indian BFSI regulations (RBI, SEBI, IRDAI, NPCI, DPDP and more) for fintech PMs, verified against official regulator sources.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Arkapravo Mukherjee",
+    "url": "https://github.com/arkapravomukherjee10"
+  },
+  "homepage": "https://github.com/arkapravomukherjee10/My_Claude_skills/tree/main/plugins/bfsi-regulatory-radar",
+  "repository": "https://github.com/arkapravomukherjee10/My_Claude_skills",
+  "keywords": [
+    "fintech",
+    "regulation",
+    "india",
+    "compliance",
+    "rbi"
+  ]
+}

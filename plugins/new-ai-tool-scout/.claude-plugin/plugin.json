@@ -1,0 +1,17 @@
+{
+  "name": "new-ai-tool-scout",
+  "displayName": "New AI Tool Scout",
+  "description": "Type #NewAITool to get a sourced briefing on a newly launched AI tool, tailored to who is asking.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Arkapravo Mukherjee",
+    "url": "https://github.com/arkapravomukherjee10"
+  },
+  "homepage": "https://github.com/arkapravomukherjee10/My_Claude_skills/tree/main/plugins/new-ai-tool-scout",
+  "repository": "https://github.com/arkapravomukherjee10/My_Claude_skills",
+  "keywords": [
+    "ai-tools",
+    "research",
+    "briefing"
+  ]
+}

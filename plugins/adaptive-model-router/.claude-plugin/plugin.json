@@ -1,0 +1,17 @@
+{
+  "name": "adaptive-model-router",
+  "displayName": "Adaptive Model Router",
+  "description": "Routes subtasks to the cheapest Claude tier that can do them correctly, and checkpoints work with a self-contained handoff when the budget runs low.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Arkapravo Mukherjee",
+    "url": "https://github.com/arkapravomukherjee10"
+  },
+  "homepage": "https://github.com/arkapravomukherjee10/My_Claude_skills/tree/main/plugins/adaptive-model-router",
+  "repository": "https://github.com/arkapravomukherjee10/My_Claude_skills",
+  "keywords": [
+    "cost-optimization",
+    "subagents",
+    "model-routing"
+  ]
+}
